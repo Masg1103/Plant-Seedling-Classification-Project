@@ -1,6 +1,6 @@
 # Plant-Seedling-Classification-Project
 
-![Uploading seedlings.jpg…]()
+![seedlings](https://github.com/Masg1103/Plant-Seedling-Classification-Project/assets/139725529/340d4e19-611e-4a87-9c29-fa7e7454c8f3)
 
 
 ### Background and Context
